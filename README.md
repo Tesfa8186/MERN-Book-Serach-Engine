@@ -17,31 +17,29 @@ Usage of Google Books API to create an Graql API with Apollo Server. MERN stack 
 - Mongodb
 - Mongoose
 
-## Snapshot
-
-<!-- [![Book Search](./Assets/BookSearchDemo.png)] -->
-
 ## Table of Contents
 
 - [Summary](#Summary)
 - [Technology Used](#Technolgy)
-- [Snapshot](#Snapshot)
+- [Links](#Links)
 - [Installation & Database SetUp](#Installation)
 - [License](#license)
 - [Tests](#tests)
 - [Questions](#questions)
 
-## Installation & Database SetUp
+## Installation
 
-- To use this app npm init has to be called to create your package.json file.
-- The following necessary Npm dependencies must be installed to run the application properly: the needed dependencies will be found on the package.json file.
-- To properly install the database you must create at cluster on Mongodb atlas.
-- Run "npm start" for the port to start listening with mongoose.
-- This app is deployed on Heroku
+- Install npm packages
+- Run `node server.js` on your terminal.
+- OR Use URL deployed link.
 
 ## Tests
 
 - Test will record here
+
+## Links
+
+<!-- [![Book Search](./Assets/BookSearchDemo.png)] -->
 
 ## License
 
