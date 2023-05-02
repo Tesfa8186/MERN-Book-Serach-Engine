@@ -33,7 +33,7 @@
 
 - Install npm packages
 - Run `npm run develop` on your terminal.
-- OR Use URL deployed link.
+- OR use URL deployed application link on Links section. https://powerful-waters-09126.herokuapp.com/
 
 ## Tests
 
@@ -44,7 +44,7 @@
 - ![Search Book Page](./Assets/Search-BookPage.png)
 - ![Saved Book Page](./Assets/Saved-BookPage.png)
 
-- [URL of the functional deployed application]()
+- [URL of the functional deployed application](https://powerful-waters-09126.herokuapp.com/)
 - [URL of the GetHub Repository](https://github.com/Tesfa8186/MERN-Book-Serach-Engine)
 
 ## License
