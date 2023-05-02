@@ -2,11 +2,21 @@
 
 - MERN-Challenge-Book-Search-Engine
 
+## Table of Contents
+
+- [Summary](#Summary)
+- [Technology Used](#Technolgy)
+- [Links](#Links)
+- [Installation & Database SetUp](#Installation)
+- [License](#license)
+- [Tests](#tests)
+- [Questions](#questions)
+
 ## Summary
 
 - Usage of Google Books API to create an Graql API with Apollo Server. MERN stack is implemented to create the app.
 - User can sign up and log in for an account, search for a book of their liking and added to a list of saved books, users can also remove the saved books.
-- User can search for new books to read, to keep a list of books and to purchase favorite.
+- User can search for new books to read, to keep list of books and to purchase favorite books.
 
 ## Technolgy Used
 
@@ -19,21 +29,11 @@
 - Mongodb
 - Mongoose
 
-## Table of Contents
-
-- [Summary](#Summary)
-- [Technology Used](#Technolgy)
-- [Links](#Links)
-- [Installation & Database SetUp](#Installation)
-- [License](#license)
-- [Tests](#tests)
-- [Questions](#questions)
-
 ## Installation
 
 - Install npm packages
 - Run `npm run develop` on your terminal.
-- OR use URL deployed application link on Links section. https://powerful-waters-09126.herokuapp.com/
+- OR use URL deployed application link on Links section.
 
 ## Tests
 
@@ -41,11 +41,12 @@
 
 ## Links
 
-- ![Search Book Page](./Assets/Search-BookPage.png)
-- ![Saved Book Page](./Assets/Saved-BookPage.png)
-
 - [URL of the functional deployed application](https://powerful-waters-09126.herokuapp.com/)
 - [URL of the GetHub Repository](https://github.com/Tesfa8186/MERN-Book-Serach-Engine)
+
+-
+- ![Search Book Page](./Assets/Search-BookPage.png)
+- ![Saved Book Page](./Assets/Saved-BookPage.png)
 
 ## License
 
