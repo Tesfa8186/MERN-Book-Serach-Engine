@@ -30,7 +30,7 @@ Usage of Google Books API to create an Graql API with Apollo Server. MERN stack 
 ## Installation
 
 - Install npm packages
-- `Run npm develop` on your terminal.
+- Run `npm run develop` on your terminal.
 - OR Use URL deployed link.
 
 ## Tests
@@ -39,6 +39,8 @@ Usage of Google Books API to create an Graql API with Apollo Server. MERN stack 
 
 ## Links
 
+- ![Search Book Page](./Assets/Search-BookPage.png)
+- ![Saved Book Page](./Assets/Saved-BookPage.png)
 - [URL of the functional deployed application]()
 - [URL of the GetHub Repository](https://github.com/Tesfa8186/MERN-Book-Serach-Engine)
 
