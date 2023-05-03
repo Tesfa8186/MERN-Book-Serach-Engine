@@ -5,9 +5,13 @@ const db = require("./config/connection");
 // const routes = require("./routes");
 const { typeDefs, resolvers } = require("./schemas");
 const { authMiddleware } = require("./utils/auth");
+const { default: mongoose } = require("mongoose");
 
 const app = express();
 const PORT = process.env.PORT || 3001;
+mongoose.connect(
+  process.env.MONGODB_URI || "mongodb://127.0.0.1:27017/MERN-Book-Search-Engine"
+);
 
 const server = new ApolloServer({
   typeDefs,
