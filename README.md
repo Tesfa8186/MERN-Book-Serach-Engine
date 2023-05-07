@@ -46,8 +46,8 @@
 - [URL of the GetHub Repository](https://github.com/Tesfa8186/MERN-Book-Serach-Engine)
 
 -
-- ![Search Book Results Page](./Assets/Search-Book-Results.png)
-- ![Saved Book Page](./Assets/Saved-BookPage.png)
+- ![Evidance for Search Book Results Page](./Assets/Search-Book-Results-Evidence.png)
+- ![Evidance for Saved Book Page](./Assets/Saved-BookPage-Evidence.png)
 
 ## License
 
