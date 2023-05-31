@@ -14,7 +14,7 @@
 
 ## Summary
 
-- Usage of Google Books API to create an Graql API with Apollo Server. MERN stack is implemented to create the app.
+- Usage of Google Books API to create Graql API with Apollo Server. MERN stack App is implemented with react front-end.
 - User can sign up and log in for an account, search for a book of their liking and added to a list of saved books, users can also remove the saved books.
 - User can search for new books to read, to keep list of books and to purchase favorite books.
 
